@@ -1,7 +1,7 @@
 # Description
 implementation mathematical and computational models used to describe the neural system
 
-# Pre-requisites
+# Packages required
 numpy, matplotlib, scipy
 
 # Running the program 
