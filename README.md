@@ -5,4 +5,4 @@ Solutions to programming assignments of Theoretical Neuroscience
 numpy, matplotlib, scipy, torch
 
 # Running the program 
-simply run the program in your preferred IDE y)
+simply run the program in your preferred IDE / platform
